@@ -1,0 +1,6 @@
+To Compile:
+g++ -pthread pwdcraker.cpp
+
+To Run:
+./a.out N
+N is the number of threads
